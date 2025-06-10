@@ -17,9 +17,8 @@ Si estás buscando un punto de partida limpio para desarrollar con Next.js, este
 **Tecnologías utilizadas:**
 
 - Next.js  
-- React  
-- TypeScript (según configuración)  
-
+- Tailwind 
+- TypeScript 
 
 ---
 
