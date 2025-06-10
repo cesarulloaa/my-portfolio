@@ -3,7 +3,6 @@
 import { itemsNavbar } from '@/data'
 import Link from 'next/link';
 import { usePathname  } from 'next/navigation';
-import { useRouter } from 'next/router';
 import MotionTransition from './transition-componet';
 import React from 'react'
 
