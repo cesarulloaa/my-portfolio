@@ -1,4 +1,4 @@
-import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Twitter, Rss, Twitch, Youtube, Crop, Pencil, Computer, Book, Rocket, Speech, Instagram } from "lucide-react";
+    import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Pencil, Computer, Rocket, Instagram,   } from "lucide-react";
 
 export const socialNetworks = [
     {
@@ -6,15 +6,15 @@ export const socialNetworks = [
         logo: <Linkedin size={30} strokeWidth={1} />,
         src: "https://www.linkedin.com/in/cesar-ulloa-6381571b5/",
     },
-    {
-        id: 3,
-        logo: <Twitter size={30} strokeWidth={1} />,
-        src: "#!",
-    },
+    // {
+    //     id: 3,
+    //     logo: <XIcon size={30} strokeWidth={1} />,
+    //     src: "#!",
+    // },
     {
         id: 4,
         logo: <Instagram size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "https://www.instagram.com/cesarulloaa/",
     },
 ];
 
@@ -57,7 +57,7 @@ export const dataAboutPage = [
     },
     {
         id: 2,
-        title: "Desarrollador Back-End Java ",
+        title: "Desarrollador Back-End Java y C# ",
         //subtitle: "PixelCrafters",
         description: "Entré al mundo backend con el maravilloso lenguaje Java y comencé creando mis primeras API's.",
         date: "Enero 2024",

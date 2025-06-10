@@ -35,11 +35,11 @@ export default function Introduction() {
                 <p className='mx-auto mb-2 text-xl md:mx-0 md:mb-8'>Como desarrollador front-end, me especializo en crear interfaces modernas, intuitivas y 100% personalizadas para que tu negocio destaque en el mundo digital.  </p>
          
                 <div className='flex items-center justify-center gap-3 md:justify-start md:gap-10'>
-                    <Link href="/projects" className='px-3 py-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50'>
+                    <Link href="/portfolio" className='px-3 py-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50'>
                          Ver Proyectos
                     </Link>
 
-                    <Link href="/projects" className='px-3 py-2 transition-all border-2 cursor-pointer text-secondary border-secondary text-md w-fit rounded-xl hover:shadow-xl hover:shadow-secondary'>
+                    <Link href="/services" className='px-3 py-2 transition-all border-2 cursor-pointer text-secondary border-secondary text-md w-fit rounded-xl hover:shadow-xl hover:shadow-secondary'>
                          Contáctame
                     </Link>
                 </div>
